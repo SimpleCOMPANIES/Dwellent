@@ -36,6 +36,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# source recordings and scratch frames (not part of the app)
+/.frames/
+*.mp4
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
