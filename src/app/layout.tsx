@@ -20,7 +20,7 @@ const bungee = Bungee({
 });
 
 export const metadata: Metadata = {
-  title: "Dwellent — Insure Your Rent. Replace the Deposit.",
+  title: "Dwellent — Skip the Deposit. Skip the Co-signer.",
   description:
     "Dwellent replaces the cash security deposit and the traditional lease co-signer with an insurance-backed guaranty — approved in minutes, not weeks.",
 };
